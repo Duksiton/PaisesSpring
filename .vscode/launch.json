@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Paises2902274Application<paises2902274>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.paises.java.paises2902274.Paises2902274Application",
+            "projectName": "paises2902274",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
